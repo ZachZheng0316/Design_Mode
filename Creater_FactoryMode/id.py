@@ -9,3 +9,4 @@ if __name__ == '__main__':
 
     print(id(a) == id(b)) # a,b是不同的实例
     print(a, b)
+    
