@@ -31,3 +31,4 @@ if __name__ == '__main__':
     afac = AppleFactory()
     mac_mini = afac.build_computer(MINI14)
     print(mac_mini)
+    
