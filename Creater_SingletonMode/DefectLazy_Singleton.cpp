@@ -35,3 +35,4 @@ int main(){
     Singleton* instance_2 = Singleton::get_instance();
     return 0;
 }
+
