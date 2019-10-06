@@ -20,3 +20,4 @@ if __name__ == '__main__':
     c = copy.deepcopy(b)
     print([str(i) for i in (b, c)]) # 打印属性数据
     print([i for i in (b, c)]) # 打印实例地址
+    
