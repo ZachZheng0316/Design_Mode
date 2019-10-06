@@ -27,4 +27,3 @@ int main()
 	Singleton & instance_1 = Singleton::get_instance();
 	Singleton & instance_2 = Singleton::get_instance();
 }
-

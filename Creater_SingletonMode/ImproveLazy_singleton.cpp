@@ -43,4 +43,3 @@ int main(){
     Singleton::Ptr instance2 = Singleton::get_instance();
     return 0;
 }
-
